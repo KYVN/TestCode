@@ -15,3 +15,4 @@ x = 0;
 y = 0;
 }
 }
+ints are also cool
