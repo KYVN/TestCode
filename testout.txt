@@ -6,7 +6,7 @@ background(0);
 void draw(){
 int x = 0
 int y = 0
-rect(x,y,width/2,length/2)
+ellipse(x,y,width/2,length/2)
 x++;
 y++;
 if(x>150){
