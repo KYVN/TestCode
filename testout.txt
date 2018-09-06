@@ -3,6 +3,8 @@ size(500,500);
 background(0);
 }
 
+voids are cool
+
 void draw(){
 int x = 0
 int y = 0
