@@ -9,4 +9,9 @@ int y = 0
 rect(x,y,width/2,length/2)
 x++;
 y++;
+if(x>150){
+x = 0;
+y = 0;
+
+}
 }
